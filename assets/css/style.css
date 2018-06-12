@@ -1,0 +1,57 @@
+html{
+    position: relative;
+}
+
+body{
+    background-image: url(../images/intersection.png);
+    margin-bottom: 90px;
+}
+
+.container {
+    max-width: 920px;
+    padding: 30px;
+}
+
+.contact-me {
+    background-color: white;
+}
+
+h4 {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color:#343a40;
+    color: #6c757d;
+    padding-bottom: 15px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #6c757d
+}
+
+.page-header{
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #6c757d;
+}
+
+.about-me {
+    background-color: white;
+}
+
+.portfolio {
+    background-color: white;
+}
+
+.aboutMeText {
+    text-indent: 20px;
+}
+
+.cardText {
+    text-align: center;
+    font-size: 18px;
+}
